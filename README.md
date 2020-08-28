@@ -1,2 +1,0 @@
-# Kisan_Aadhar
-Kisan Aadhaar is a android application which connects farmers with agricultural officers and the fellow farmers. Kisan Aadhaar includes features such as special Question/Answer forum which supports different languages such as English, Hindi, Marathi. Kisan Aadhaar help you to find different links of Government schemes related to farming in India packed in one single android application.
